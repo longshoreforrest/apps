@@ -1,0 +1,25 @@
+{
+  "slug": "id",
+  "name": "MyID",
+  "tagline": "Perheen oma tunnistautuminen — ei salasanoja, ei Google-kirjautumista",
+  "appId": "com.tapio.myid",
+  "version": "1.1.0",
+  "versionCode": 10100,
+  "apk": "myid-1.1.0.apk",
+  "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
+  "size": 3569516,
+  "publishedAt": "2026-07-26T06:22:39.002Z",
+  "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella; ensimmäinen release-allekirjoitettu versio",
+  "url": "https://longshoreforrest.github.io/apps/id/myid-1.1.0.apk",
+  "releases": [
+    {
+      "version": "1.1.0",
+      "versionCode": 10100,
+      "apk": "myid-1.1.0.apk",
+      "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
+      "size": 3569516,
+      "publishedAt": "2026-07-26T06:22:39.002Z",
+      "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella; ensimmäinen release-allekirjoitettu versio"
+    }
+  ]
+}
