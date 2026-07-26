@@ -2,24 +2,24 @@
   "slug": "id",
   "name": "MyID",
   "tagline": "Perheen oma tunnistautuminen — ei salasanoja, ei Google-kirjautumista",
-  "appId": "com.tapio.myid",
-  "version": "1.1.0",
-  "versionCode": 10100,
-  "apk": "myid-1.1.0.apk",
-  "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
-  "size": 3569516,
-  "publishedAt": "2026-07-26T06:58:19.885Z",
-  "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella",
-  "url": "https://longshoreforrest.github.io/apps/id/myid-1.1.0.apk",
+  "appId": "com.longshore.myid",
+  "version": "2.0.0",
+  "versionCode": 20000,
+  "apk": "myid-2.0.0.apk",
+  "sha256": "cb201ac432463e17046cdca98f90ff3b2da5f38b07c6f4f7db7ed283464b0155",
+  "size": 3569528,
+  "publishedAt": "2026-07-26T07:58:21.959Z",
+  "notes": "Sovelluksen tunniste vaihtui — tämä on uusi asennus, ei päivitys. Liitä laite uudelleen ja poista vanha MyID.",
+  "url": "https://longshoreforrest.github.io/apps/id/myid-2.0.0.apk",
   "releases": [
     {
-      "version": "1.1.0",
-      "versionCode": 10100,
-      "apk": "myid-1.1.0.apk",
-      "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
-      "size": 3569516,
-      "publishedAt": "2026-07-26T06:58:19.885Z",
-      "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella"
+      "version": "2.0.0",
+      "versionCode": 20000,
+      "apk": "myid-2.0.0.apk",
+      "sha256": "cb201ac432463e17046cdca98f90ff3b2da5f38b07c6f4f7db7ed283464b0155",
+      "size": 3569528,
+      "publishedAt": "2026-07-26T07:58:21.959Z",
+      "notes": "Sovelluksen tunniste vaihtui — tämä on uusi asennus, ei päivitys. Liitä laite uudelleen ja poista vanha MyID."
     }
   ]
 }
