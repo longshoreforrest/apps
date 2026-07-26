@@ -8,8 +8,8 @@
   "apk": "myid-1.1.0.apk",
   "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
   "size": 3569516,
-  "publishedAt": "2026-07-26T06:22:39.002Z",
-  "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella; ensimmäinen release-allekirjoitettu versio",
+  "publishedAt": "2026-07-26T06:58:19.885Z",
+  "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella",
   "url": "https://longshoreforrest.github.io/apps/id/myid-1.1.0.apk",
   "releases": [
     {
@@ -18,8 +18,8 @@
       "apk": "myid-1.1.0.apk",
       "sha256": "b5e618e91035290f15435e0d8d238ebf89c0a0809cc0706cbb5ea77afdb7dabf",
       "size": 3569516,
-      "publishedAt": "2026-07-26T06:22:39.002Z",
-      "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella; ensimmäinen release-allekirjoitettu versio"
+      "publishedAt": "2026-07-26T06:58:19.885Z",
+      "notes": "Uusi laite rekisteröidään hyväksyjän puhelimella"
     }
   ]
 }
