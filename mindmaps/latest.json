@@ -1,0 +1,25 @@
+{
+  "slug": "mindmaps",
+  "name": "MyMindMaps",
+  "tagline": "Ääretön kanvaasi ajatuksille — piirrä kynällä, kirjoita, liitä kuvia",
+  "appId": "com.longshore.mymindmaps",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mymindmaps-1.0.0.apk",
+  "sha256": "b51f9963fa239328d9118bf06e64152f0eee6ac50c635296c1688edc655eea87",
+  "size": 3541391,
+  "publishedAt": "2026-07-27T13:09:54.839Z",
+  "notes": "Ensimmäinen versio: ääretön kanvaasi, S Pen -piirto paineentunnistuksella, teksti, kuvat, tallennus Documents/MyMindMaps-kansioon.",
+  "url": "https://longshoreforrest.github.io/apps/mindmaps/mymindmaps-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mymindmaps-1.0.0.apk",
+      "sha256": "b51f9963fa239328d9118bf06e64152f0eee6ac50c635296c1688edc655eea87",
+      "size": 3541391,
+      "publishedAt": "2026-07-27T13:09:54.839Z",
+      "notes": "Ensimmäinen versio: ääretön kanvaasi, S Pen -piirto paineentunnistuksella, teksti, kuvat, tallennus Documents/MyMindMaps-kansioon."
+    }
+  ]
+}
