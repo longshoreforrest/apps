@@ -1,0 +1,25 @@
+{
+  "slug": "music",
+  "name": "MyMusic",
+  "tagline": "Perheen yhteinen YouTube-musiikki — soittolistat, moodit ja PiP",
+  "appId": "com.longshore.mymusic",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mymusic-1.0.0.apk",
+  "sha256": "b56b52cd18a7487ec998ecfa780f4052ec99f973145618f709352f418273c2de",
+  "size": 5440797,
+  "publishedAt": "2026-07-27T05:57:50.645Z",
+  "notes": "Ensimmäinen versio kaupassa",
+  "url": "https://longshoreforrest.github.io/apps/music/mymusic-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mymusic-1.0.0.apk",
+      "sha256": "b56b52cd18a7487ec998ecfa780f4052ec99f973145618f709352f418273c2de",
+      "size": 5440797,
+      "publishedAt": "2026-07-27T05:57:50.645Z",
+      "notes": "Ensimmäinen versio kaupassa"
+    }
+  ]
+}
