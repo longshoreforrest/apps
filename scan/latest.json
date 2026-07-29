@@ -1,0 +1,25 @@
+{
+  "slug": "scan",
+  "name": "MyDocumentScanner",
+  "tagline": "Paperi talteen puhelimen kameralla — rajattuna, suoristettuna ja haettavana",
+  "appId": "com.longshore.mydocumentscanner",
+  "version": "0.1.0",
+  "versionCode": 100,
+  "apk": "mydocumentscanner-0.1.0.apk",
+  "sha256": "d8b50fbc14a81b5a3e18be9d39c8809aa47d0615b4c27182b1ef8fd5c256f99f",
+  "size": 41660468,
+  "publishedAt": "2026-07-29T13:08:23.853Z",
+  "notes": "Ensimmäinen versio. Skannaa paperidokumentin puhelimen kameralla: etsii reunat, oikaisee kuvakulman, siistii valaistuksen ja tunnistaa tekstin. Monisivuiset dokumentit, haettava PDF ja vienti MyFilesiin yhdellä napautuksella.",
+  "url": "https://longshoreforrest.github.io/apps/scan/mydocumentscanner-0.1.0.apk",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "versionCode": 100,
+      "apk": "mydocumentscanner-0.1.0.apk",
+      "sha256": "d8b50fbc14a81b5a3e18be9d39c8809aa47d0615b4c27182b1ef8fd5c256f99f",
+      "size": 41660468,
+      "publishedAt": "2026-07-29T13:08:23.853Z",
+      "notes": "Ensimmäinen versio. Skannaa paperidokumentin puhelimen kameralla: etsii reunat, oikaisee kuvakulman, siistii valaistuksen ja tunnistaa tekstin. Monisivuiset dokumentit, haettava PDF ja vienti MyFilesiin yhdellä napautuksella."
+    }
+  ]
+}
