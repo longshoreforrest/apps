@@ -1,0 +1,25 @@
+{
+  "slug": "keys",
+  "name": "MyKeys",
+  "tagline": "Perheen salasanaholvi — sormenjäljellä auki, salasanat pysyvät puhelimessa",
+  "appId": "com.longshore.mykeys",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mykeys-1.0.0.apk",
+  "sha256": "43fa74bbb7514b50244cd4c1c4063eae5eaae6ababefaaef287b5d2e95d2bf76",
+  "size": 4842470,
+  "publishedAt": "2026-07-29T07:30:20.710Z",
+  "notes": "Ensimmäinen kauppaversio: salasanat eivät enää tule sovelluspaketin mukana, vaan holvi tuodaan salatusta tiedostosta.",
+  "url": "https://longshoreforrest.github.io/apps/keys/mykeys-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mykeys-1.0.0.apk",
+      "sha256": "43fa74bbb7514b50244cd4c1c4063eae5eaae6ababefaaef287b5d2e95d2bf76",
+      "size": 4842470,
+      "publishedAt": "2026-07-29T07:30:20.710Z",
+      "notes": "Ensimmäinen kauppaversio: salasanat eivät enää tule sovelluspaketin mukana, vaan holvi tuodaan salatusta tiedostosta."
+    }
+  ]
+}
