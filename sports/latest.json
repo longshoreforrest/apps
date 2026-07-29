@@ -1,0 +1,25 @@
+{
+  "slug": "sports",
+  "name": "My Sports",
+  "tagline": "Urheiluseuranta ilman tilejä — reitit, analytiikka ja paino omalla puhelimella",
+  "appId": "com.longshore.mysports",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mysports-1.0.0.apk",
+  "sha256": "b413f8ab1c84a1a03eab44877acc3e5a419c46420590e76c35faa5eb4de0852e",
+  "size": 25455086,
+  "publishedAt": "2026-07-29T11:49:10.840Z",
+  "notes": "Ensimmäinen julkaisu: GPS-seuranta, kalenteri, analytiikka ja painopäiväkirja. Kaikki data pysyy puhelimessa; varmuuskopion voi viedä ja palauttaa yhtenä tiedostona.",
+  "url": "https://longshoreforrest.github.io/apps/sports/mysports-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mysports-1.0.0.apk",
+      "sha256": "b413f8ab1c84a1a03eab44877acc3e5a419c46420590e76c35faa5eb4de0852e",
+      "size": 25455086,
+      "publishedAt": "2026-07-29T11:49:10.840Z",
+      "notes": "Ensimmäinen julkaisu: GPS-seuranta, kalenteri, analytiikka ja painopäiväkirja. Kaikki data pysyy puhelimessa; varmuuskopion voi viedä ja palauttaa yhtenä tiedostona."
+    }
+  ]
+}
