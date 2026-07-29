@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "slug": "mythoughts",
-  "updatedAt": "2026-07-29T07:47:59.775Z",
+  "updatedAt": "2026-07-29T12:04:29.947Z",
   "models": [
     {
       "key": "whisper-detect",
@@ -10,9 +10,9 @@
       "name": "Whisper Base",
       "description": "Kielentunnistus",
       "fileName": "ggml-base.bin",
-      "url": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin",
+      "url": "https://github.com/longshoreforrest/apps/releases/download/models-mythoughts/ggml-base.bin",
       "sizeBytes": 147951465,
-      "sha256": "",
+      "sha256": "60ed5bc3dd14eea856493d334349b405782ddcaf0028d4b5df4088345fba2efe",
       "speedFactor": 0.18,
       "quality": "riittää kielen tunnistukseen, ei transkriptioon",
       "default": true
