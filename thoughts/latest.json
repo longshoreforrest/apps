@@ -1,0 +1,25 @@
+{
+  "slug": "thoughts",
+  "name": "My Thoughts",
+  "tagline": "Sanele ajatuksesi ja litteroi ne puhelimessa — ilman pilveä",
+  "appId": "com.longshoreforrest.mythoughts",
+  "version": "0.3.0",
+  "versionCode": 1,
+  "apk": "mythoughts-0.3.0.apk",
+  "sha256": "e1f35a2001b7f6938f5afb49777176ca845dd8890d310c1ffc998d3416312968",
+  "size": 59448961,
+  "publishedAt": "2026-07-29T14:38:59.663Z",
+  "notes": "Ensimmäinen julkaisu kaupassa. Sanele ajatuksesi ja litteroi ne suoraan puhelimessa — ääni ei lähde mihinkään. Suomelle suomeen hienosäädetty Whisper large-v3, englannille large-v3-turbo. Transkriptin voi kopioida tekstinä, aikaleimoilla, Markdownina tai muotoiltuna HTML:nä.",
+  "url": "https://longshoreforrest.github.io/apps/thoughts/mythoughts-0.3.0.apk",
+  "releases": [
+    {
+      "version": "0.3.0",
+      "versionCode": 1,
+      "apk": "mythoughts-0.3.0.apk",
+      "sha256": "e1f35a2001b7f6938f5afb49777176ca845dd8890d310c1ffc998d3416312968",
+      "size": 59448961,
+      "publishedAt": "2026-07-29T14:38:59.663Z",
+      "notes": "Ensimmäinen julkaisu kaupassa. Sanele ajatuksesi ja litteroi ne suoraan puhelimessa — ääni ei lähde mihinkään. Suomelle suomeen hienosäädetty Whisper large-v3, englannille large-v3-turbo. Transkriptin voi kopioida tekstinä, aikaleimoilla, Markdownina tai muotoiltuna HTML:nä."
+    }
+  ]
+}
