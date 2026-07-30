@@ -74,8 +74,28 @@
     "summary": "Perheen sovelluskauppa — asenna ja päivitä perheen omat sovellukset",
     "description": "Näyttää kaikki perheen omat Android-sovellukset, kertoo mistä on uusi versio saatavilla ja asentaa ne yhdellä napautuksella.\n\nTarkistaa päivitykset automaattisesti tunnin välein ja ilmoittaa uusista versioista. Ennen asennusta jokaisen paketin tiiviste ja allekirjoittaja varmistetaan kaupan indeksiä vasten.",
     "androidAppId": "com.longshore.myapps",
-    "dmg": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-mac-arm64.dmg",
+    "dmg": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.1/MyApps-1.0.1-mac-arm64.dmg",
     "versions": [
+      {
+        "version": "1.0.1",
+        "released": 1785404842827,
+        "notes": "",
+        "platforms": {
+          "mac-arm64": {
+            "url": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.1/MyApps-1.0.1-mac-arm64.zip",
+            "sha256": "d97048c6ca1e7bec33f37c38eab09afa894dbf5b9e9b3d8e6574016dd9005c8e",
+            "size": 2105590,
+            "bundle": "MyApps.app"
+          },
+          "win-x64": {
+            "url": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.1/MyApps-1.0.1-win-x64.zip",
+            "sha256": "a506df1d209563bd8a39a8cc921ccb1b881d7ea43cdf34704a4c2d2af1d3faa9",
+            "size": 2189429,
+            "dir": "MyApps",
+            "exe": "MyApps.exe"
+          }
+        }
+      },
       {
         "version": "1.0.0",
         "released": 1785402075298,

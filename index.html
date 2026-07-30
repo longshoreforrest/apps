@@ -147,17 +147,26 @@
   perheen sovellukset ja niiden päivitykset löytyvät samasta paikasta kuin
   puhelimessakin. MyApps asentaa sovellukset omaan kansioonsa, joten
   ylläpitäjän oikeuksia ei tarvita.</p>
-  <a class="btn" href="https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-mac-arm64.dmg">Lataa MyApps Macille (1.0.0)</a>
-  <a class="btn" href="https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-win-x64.zip">Lataa MyApps Windowsille (1.0.0)</a>
+  <a class="btn" href="https://github.com/longshoreforrest/apps/releases/download/store-v1.0.1/MyApps-1.0.1-mac-arm64.dmg">Lataa MyApps Macille (1.0.1)</a>
+  <a class="btn" href="https://github.com/longshoreforrest/apps/releases/download/store-v1.0.1/MyApps-1.0.1-win-x64.zip">Lataa MyApps Windowsille (1.0.1)</a>
   <ol>
     <li>Lataa ja avaa paketti. <b>Macilla</b> vedä MyApps Ohjelmat-kansioon,
         <b>Windowsissa</b> pura ZIP ja käynnistä MyApps.exe.</li>
-    <li>Ensimmäisellä käynnistyksellä tulee varoitus tuntemattomasta
-        kehittäjästä — se on odotettua. Macilla hiiren oikea → <b>Avaa</b> → Avaa;
-        Windowsissa <b>Lisätietoja</b> → Suorita silti.</li>
-    <li>Siinä kaikki. MyApps listaa perheen sovellukset ja asentaa ne
-        yhdellä napautuksella. Tämän jälkeen mitään varoituksia ei enää tule.</li>
+    <li><b>Macilla ensimmäinen käynnistys:</b> tuplaklikkaus ei riitä, koska
+        sovellusta ei ole notarisoitu Applella. Klikkaa MyAppsia hiiren
+        oikealla → <b>Avaa</b> → <b>Avaa</b>. Jos macOS ei tarjoa Avaa-nappia,
+        mene <b>Järjestelmäasetukset → Tietosuoja ja suojaus</b> ja paina
+        siellä <b>Avaa silti</b>.</li>
+    <li><b>Windowsissa ensimmäinen käynnistys:</b> SmartScreen näyttää sinisen
+        ruudun → <b>Lisätietoja</b> → <b>Suorita silti</b>.</li>
+    <li>Siinä kaikki. MyApps listaa perheen sovellukset ja asentaa ne yhdellä
+        napautuksella — ja <b>sen kautta asennetut sovellukset eivät kysy
+        mitään</b>, koska MyApps lataa ne itse eikä selain merkitse niitä.</li>
   </ol>
+  <p style="font-size:13px;color:var(--dim);margin-bottom:0">Jos Mac sanoo
+  <b>"MyApps is damaged and can't be opened"</b>, kyseessä ei ole rikkinäinen
+  lataus vaan puuttuva allekirjoitus. Lataa uusin versio tältä sivulta; jos
+  virhe jatkuu, kerro siitä — se on julkaisuvirhe, ei koneesi vika.</p>
 </div><!--/LAPTOP-->
 <div class="card" id="kauppa">
   <h2>Perheen sovelluskauppa</h2>
