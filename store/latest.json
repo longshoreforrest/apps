@@ -66,5 +66,29 @@
       "publishedAt": "2026-07-26T08:13:15.571Z",
       "notes": "Ensimmäinen versio — perheen sovelluskauppa"
     }
-  ]
+  ],
+  "desktop": {
+    "identifier": "com.longshore.myapps",
+    "productName": "MyApps",
+    "category": "Perhe",
+    "summary": "Perheen sovelluskauppa — asenna ja päivitä perheen omat sovellukset",
+    "description": "Näyttää kaikki perheen omat Android-sovellukset, kertoo mistä on uusi versio saatavilla ja asentaa ne yhdellä napautuksella.\n\nTarkistaa päivitykset automaattisesti tunnin välein ja ilmoittaa uusista versioista. Ennen asennusta jokaisen paketin tiiviste ja allekirjoittaja varmistetaan kaupan indeksiä vasten.",
+    "androidAppId": "com.longshore.myapps",
+    "dmg": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-mac-arm64.dmg",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "released": 1785399941602,
+        "notes": "Ensimmäinen työpöytäversio. Näyttää kaikki perheen sovellukset, asentaa ja avaa ne joista on Mac-versio.",
+        "platforms": {
+          "mac-arm64": {
+            "url": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-mac-arm64.zip",
+            "sha256": "40e9a1cd4b551a00dd5443545779177a4091385fe3fbc7f2796ff69103d8e2dc",
+            "size": 2105520,
+            "bundle": "MyApps.app"
+          }
+        }
+      }
+    ]
+  }
 }
