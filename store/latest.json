@@ -78,14 +78,21 @@
     "versions": [
       {
         "version": "1.0.0",
-        "released": 1785399941602,
-        "notes": "Ensimmäinen työpöytäversio. Näyttää kaikki perheen sovellukset, asentaa ja avaa ne joista on Mac-versio.",
+        "released": 1785402075298,
+        "notes": "Ensimmäinen työpöytäversio. Näyttää kaikki perheen sovellukset ja asentaa, päivittää ja avaa ne joista on Windows- tai Mac-versio.",
         "platforms": {
           "mac-arm64": {
             "url": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-mac-arm64.zip",
-            "sha256": "40e9a1cd4b551a00dd5443545779177a4091385fe3fbc7f2796ff69103d8e2dc",
-            "size": 2105520,
+            "sha256": "9931a80f4123d081a6a289b5619aee2dad0cc25ec86c4f38268cd14312c5527c",
+            "size": 2105589,
             "bundle": "MyApps.app"
+          },
+          "win-x64": {
+            "url": "https://github.com/longshoreforrest/apps/releases/download/store-v1.0.0/MyApps-1.0.0-win-x64.zip",
+            "sha256": "0c03e9fefd7b31ae8bf9093e7a63614b25b6c7de995ba6add6433f79ea744243",
+            "size": 2189497,
+            "dir": "MyApps",
+            "exe": "MyApps.exe"
           }
         }
       }
