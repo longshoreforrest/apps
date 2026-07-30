@@ -1,0 +1,25 @@
+{
+  "slug": "slides",
+  "name": "MySlides",
+  "tagline": "PowerPoint-esitykset puhelimessa — avaa, muokkaa, tallenna samaan tiedostoon ja esitä",
+  "appId": "com.longshore.myslides",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "myslides-1.0.0.apk",
+  "sha256": "572ea2975ae005d3417da530dd9ad336ddf2ff4d225c1d7359728b308354e284",
+  "size": 3486250,
+  "publishedAt": "2026-07-30T04:42:37.900Z",
+  "notes": "Ensimmäinen versio: pptx/ppt/odp-tiedostojen avaus, katselu teemoineen, tekstin ja muotojen muokkaus, tallennus samaan tiedostoon ja esitystila.",
+  "url": "https://longshoreforrest.github.io/apps/slides/myslides-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "myslides-1.0.0.apk",
+      "sha256": "572ea2975ae005d3417da530dd9ad336ddf2ff4d225c1d7359728b308354e284",
+      "size": 3486250,
+      "publishedAt": "2026-07-30T04:42:37.900Z",
+      "notes": "Ensimmäinen versio: pptx/ppt/odp-tiedostojen avaus, katselu teemoineen, tekstin ja muotojen muokkaus, tallennus samaan tiedostoon ja esitystila."
+    }
+  ]
+}
