@@ -1,7 +1,33 @@
 {
   "formatVersion": 1,
-  "generated": 1785404842961,
+  "generated": 1785405603316,
   "apps": {
+    "excel": {
+      "slug": "excel",
+      "name": "MyOfficeExcel",
+      "summary": "Taulukot puhelimessa — avaa, muokkaa ja tallenna Excel-tiedostot",
+      "description": "Taulukkolaskenta joka avaa oikeat Excel-tiedostot ja tallentaa ne takaisin samaan tiedostoon.\nTukee .xlsx- ja .xlsm-tiedostoja muokkaukseen sekä .xls-, .ods-, .csv- ja .tsv-tiedostoja tuontiin.\nKaavat, numeromuotoilut, päivämäärät, tyylit ja yhdistetyt solut säilyvät — myös se mitä sovellus ei itse ymmärrä viedään tiedostoon muuttumattomana.\nNatiivi Kotlin- ja Compose-sovellus, ei selainkuorta. Automaattitallennus ja kaatumispalautus.",
+      "category": "",
+      "author": "Longshore",
+      "icon": null,
+      "androidAppId": "com.longshore.myofficeexcel",
+      "dmg": "https://github.com/longshoreforrest/apps/releases/download/excel-v1.0.0/MyOfficeExcel-1.0.0-mac-arm64.dmg",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "released": 1785405603314,
+          "notes": "Ensimmainen tyopoytaversio: sama taulukkomoottori kuin puhelimessa, natiivina Macille.",
+          "platforms": {
+            "mac-arm64": {
+              "url": "https://github.com/longshoreforrest/apps/releases/download/excel-v1.0.0/MyOfficeExcel-1.0.0-mac-arm64.zip",
+              "sha256": "a7d1f2d19d58b8b0563291186736b2000a784b8105e075d4ac2ea5ab081ec60e",
+              "size": 60693701,
+              "bundle": "MyOfficeExcel.app"
+            }
+          }
+        }
+      ]
+    },
     "store": {
       "slug": "store",
       "name": "MyApps",
