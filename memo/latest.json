@@ -1,0 +1,25 @@
+{
+  "slug": "memo",
+  "name": "MyMemo",
+  "tagline": "Kuvakaappaukset, linkit ja pikamuistiinpanot yhdessä haettavassa aikajanassa",
+  "appId": "com.longshore.mymemo",
+  "version": "0.1.0",
+  "versionCode": 100,
+  "apk": "mymemo-0.1.0.apk",
+  "sha256": "cb94016851f46ab36fa3a0a8deb29a7ba2f94247cc7dd6877c0de96f2062f5b5",
+  "size": 16606983,
+  "publishedAt": "2026-07-30T05:41:12.267Z",
+  "notes": "Ensimmäinen versio. Kuvakaappaukset indeksoituvat itsestään: teksti luetaan laitteella, ja sovellus tietää mistä sovelluksesta ja milloin jokainen on otettu. Linkit ja tekstinpätkät tallentuvat jakovalikosta yhdellä napautuksella. Haku ymmärtää suomea ja aikaa (\"linkedin kesäkuussa\"). Vanha WhatsApp-muistilappukanava voidaan tuoda alkuperäisillä aikaleimoilla.",
+  "url": "https://longshoreforrest.github.io/apps/memo/mymemo-0.1.0.apk",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "versionCode": 100,
+      "apk": "mymemo-0.1.0.apk",
+      "sha256": "cb94016851f46ab36fa3a0a8deb29a7ba2f94247cc7dd6877c0de96f2062f5b5",
+      "size": 16606983,
+      "publishedAt": "2026-07-30T05:41:12.267Z",
+      "notes": "Ensimmäinen versio. Kuvakaappaukset indeksoituvat itsestään: teksti luetaan laitteella, ja sovellus tietää mistä sovelluksesta ja milloin jokainen on otettu. Linkit ja tekstinpätkät tallentuvat jakovalikosta yhdellä napautuksella. Haku ymmärtää suomea ja aikaa (\"linkedin kesäkuussa\"). Vanha WhatsApp-muistilappukanava voidaan tuoda alkuperäisillä aikaleimoilla."
+    }
+  ]
+}
