@@ -1,0 +1,25 @@
+{
+  "slug": "officeword",
+  "name": "MyOfficeWord",
+  "tagline": "Avaa, lue ja muokkaa Word-tiedostoja — tallennus takaisin samaan tiedostoon",
+  "appId": "com.longshore.myofficeword",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "myofficeword-1.0.0.apk",
+  "sha256": "fee685fbdca6b6140d2be7a0f293299790ae54ec47177c99e6a3ea846795cc28",
+  "size": 3718995,
+  "publishedAt": "2026-07-30T04:15:57.416Z",
+  "notes": "Ensimmäinen versio: Word-tiedostojen avaus, muokkaus ja tallennus takaisin samaan tiedostoon. Myös .doc, .rtf ja .odt luettavaksi.",
+  "url": "https://longshoreforrest.github.io/apps/officeword/myofficeword-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "myofficeword-1.0.0.apk",
+      "sha256": "fee685fbdca6b6140d2be7a0f293299790ae54ec47177c99e6a3ea846795cc28",
+      "size": 3718995,
+      "publishedAt": "2026-07-30T04:15:57.416Z",
+      "notes": "Ensimmäinen versio: Word-tiedostojen avaus, muokkaus ja tallennus takaisin samaan tiedostoon. Myös .doc, .rtf ja .odt luettavaksi."
+    }
+  ]
+}
