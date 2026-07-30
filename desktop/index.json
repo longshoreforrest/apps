@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generated": 1785405603316,
+  "generated": 1785419962037,
   "apps": {
     "excel": {
       "slug": "excel",
@@ -23,6 +23,39 @@
               "sha256": "a7d1f2d19d58b8b0563291186736b2000a784b8105e075d4ac2ea5ab081ec60e",
               "size": 60693701,
               "bundle": "MyOfficeExcel.app"
+            }
+          }
+        }
+      ]
+    },
+    "officeword": {
+      "slug": "officeword",
+      "name": "MyOfficeWord",
+      "summary": "Avaa, lue ja muokkaa Word-tiedostoja — tallennus takaisin samaan tiedostoon",
+      "description": "Word-asiakirjojen katselu ja muokkaus suoraan laitteen tiedostoista.\n\nAvaa .docx, .docm ja .dotx muokattavaksi ja tallenna takaisin samaan tiedostoon. Vanhat Word 97–2003 (.doc), RTF- ja OpenDocument-tiedostot avautuvat luettavaksi ja tallentuvat .docx-muodossa, joten alkuperäinen jää koskematta.\n\nTallennus kirjoittaa uudelleen vain asiakirjan rungon: tyylit, teemat, ylä- ja alatunnisteet, alaviitteet, kuvat, kuviot ja kaavat säilyvät sellaisinaan, joten tiedosto pysyy Wordissa samannäköisenä kuin ennenkin.\n\nLäppärillä mukana ovat valikkorivi ja pikanäppäimet, sivunäkymä todellisilla sivumitoilla ja tiedostojen avaus suoraan Finderista tai Resurssienhallinnasta.\n\nEi verkkoyhteyttä — asiakirjat pysyvät laitteessa.",
+      "category": "Toimisto",
+      "author": "Longshore",
+      "icon": "/desktop/icons/officeword.png",
+      "androidAppId": "com.longshore.myofficeword",
+      "dmg": "https://github.com/longshoreforrest/apps/releases/download/officeword-v1.0.0/MyOfficeWord-1.0.0-mac-arm64.dmg",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "released": 1785419961987,
+          "notes": "Ensimmäinen työpöytäversio: Word-asiakirjat Macilla ja Windowsilla. Valikkorivi ja pikanäppäimet, sivunäkymä todellisilla sivumitoilla, tiedostot auki suoraan Finderista tai Resurssienhallinnasta, tallennus takaisin samaan tiedostoon.",
+          "platforms": {
+            "mac-arm64": {
+              "url": "https://github.com/longshoreforrest/apps/releases/download/officeword-v1.0.0/MyOfficeWord-1.0.0-mac-arm64.zip",
+              "sha256": "cbe7710eb466a535e50ea014783c0bd1764a7fcef2ee7e05dac2060278f39e7d",
+              "size": 1695342,
+              "bundle": "MyOfficeWord.app"
+            },
+            "win-x64": {
+              "url": "https://github.com/longshoreforrest/apps/releases/download/officeword-v1.0.0/MyOfficeWord-1.0.0-win-x64.zip",
+              "sha256": "33823b869084b5b12b8ccb19e192ecc1d3be32356b672259a69f81109564b35e",
+              "size": 1595040,
+              "dir": "MyOfficeWord",
+              "exe": "MyOfficeWord.exe"
             }
           }
         }
