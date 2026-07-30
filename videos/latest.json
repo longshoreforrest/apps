@@ -1,0 +1,25 @@
+{
+  "slug": "videos",
+  "name": "MyVideos",
+  "tagline": "Videokamera, joka ei täytä puhelinta — ja videot perheelle heti",
+  "appId": "com.longshore.myvideos",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "myvideos-1.0.0.apk",
+  "sha256": "8c06900c76d9a6fc11700b5fff13c708f5986989bc0149be4a0fe4d6e0f93ebf",
+  "size": 6640753,
+  "publishedAt": "2026-07-30T15:13:26.018Z",
+  "notes": "Ensimmäinen versio: kuvaa videot valitulla laadulla, vapauta tilaa ja vie videot perheen holviin.",
+  "url": "https://longshoreforrest.github.io/apps/videos/myvideos-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "myvideos-1.0.0.apk",
+      "sha256": "8c06900c76d9a6fc11700b5fff13c708f5986989bc0149be4a0fe4d6e0f93ebf",
+      "size": 6640753,
+      "publishedAt": "2026-07-30T15:13:26.018Z",
+      "notes": "Ensimmäinen versio: kuvaa videot valitulla laadulla, vapauta tilaa ja vie videot perheen holviin."
+    }
+  ]
+}
