@@ -1,0 +1,25 @@
+{
+  "slug": "excel",
+  "name": "MyOfficeExcel",
+  "tagline": "Taulukot puhelimessa — avaa, muokkaa ja tallenna Excel-tiedostot",
+  "appId": "com.longshore.myofficeexcel",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "myofficeexcel-1.0.0.apk",
+  "sha256": "6a2d16386ea6e97c35bedfcd1eb81736d9026ba9206e79609218fc8dd2179824",
+  "size": 7255866,
+  "publishedAt": "2026-07-30T03:48:09.549Z",
+  "notes": "Ensimmainen versio: avaa, muokkaa ja tallenna Excel-tiedostot puhelimessa.",
+  "url": "https://longshoreforrest.github.io/apps/excel/myofficeexcel-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "myofficeexcel-1.0.0.apk",
+      "sha256": "6a2d16386ea6e97c35bedfcd1eb81736d9026ba9206e79609218fc8dd2179824",
+      "size": 7255866,
+      "publishedAt": "2026-07-30T03:48:09.549Z",
+      "notes": "Ensimmainen versio: avaa, muokkaa ja tallenna Excel-tiedostot puhelimessa."
+    }
+  ]
+}
