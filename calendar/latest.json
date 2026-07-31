@@ -1,0 +1,25 @@
+{
+  "slug": "calendar",
+  "name": "MyCalendar",
+  "tagline": "Koko kuukausi yhdellä silmäyksellä — ja merkintä kolmella kosketuksella",
+  "appId": "com.longshore.mycalendar",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mycalendar-1.0.0.apk",
+  "sha256": "8b6fce5f01418b6827c01e97467e91d9379d34331226ef46d59a8644497acda0",
+  "size": 3236643,
+  "publishedAt": "2026-07-31T08:46:53.922Z",
+  "notes": "Ensimmäinen versio: kuukausinäkymä, päivälevy, nopea merkintä ja kaikki Google-kalenterit.",
+  "url": "https://longshoreforrest.github.io/apps/calendar/mycalendar-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mycalendar-1.0.0.apk",
+      "sha256": "8b6fce5f01418b6827c01e97467e91d9379d34331226ef46d59a8644497acda0",
+      "size": 3236643,
+      "publishedAt": "2026-07-31T08:46:53.922Z",
+      "notes": "Ensimmäinen versio: kuukausinäkymä, päivälevy, nopea merkintä ja kaikki Google-kalenterit."
+    }
+  ]
+}
