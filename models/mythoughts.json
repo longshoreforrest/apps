@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "slug": "mythoughts",
-  "updatedAt": "2026-07-29T12:54:48.167Z",
+  "updatedAt": "2026-08-02T06:22:00.524Z",
   "models": [
     {
       "key": "whisper-detect",
@@ -57,6 +57,20 @@
       "sha256": "",
       "speedFactor": null,
       "quality": null,
+      "default": true
+    },
+    {
+      "key": "qwen-fi",
+      "role": "llm",
+      "language": null,
+      "name": "Qwen 2.5 3B Instruct",
+      "description": "Tekstin ehostus raakalitteroinnista",
+      "fileName": "qwen2.5-3b-instruct-q4_k_m.gguf",
+      "url": "https://github.com/longshoreforrest/apps/releases/download/models-mythoughts/qwen2.5-3b-instruct-q4_k_m.gguf",
+      "sizeBytes": 1929903264,
+      "sha256": "9c9f56a391a3abbd5b89d0245bf6106081bcc3173119d4229235dd9d23253f94",
+      "speedFactor": null,
+      "quality": "kevyt malli — siistii rakenteen ja korjaa selvät virheet, ei korvaa ihmistä",
       "default": true
     }
   ]
