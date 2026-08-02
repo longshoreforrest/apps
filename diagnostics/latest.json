@@ -1,0 +1,25 @@
+{
+  "slug": "diagnostics",
+  "name": "MyDiagnostics",
+  "tagline": "Perheen sovellusten huolto — viat näkyviin ja korjattaviksi ilman käyntiä puhelimella",
+  "appId": "com.longshore.mydiagnostics",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mydiagnostics-1.0.0.apk",
+  "sha256": "2e82a4a27d4002bcc7dcf37390fe88b752515c3397952da17a25324bd2a8c626",
+  "size": 3309236,
+  "publishedAt": "2026-08-02T12:13:19.494Z",
+  "notes": "Ensimmäinen versio: kaatumisten ja ANR:ien keruu perheen sovelluksista, MyID-liitos, valtuutetun huoltoagentin komennot ja näkyvä toimintaloki.",
+  "url": "https://longshoreforrest.github.io/apps/diagnostics/mydiagnostics-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mydiagnostics-1.0.0.apk",
+      "sha256": "2e82a4a27d4002bcc7dcf37390fe88b752515c3397952da17a25324bd2a8c626",
+      "size": 3309236,
+      "publishedAt": "2026-08-02T12:13:19.494Z",
+      "notes": "Ensimmäinen versio: kaatumisten ja ANR:ien keruu perheen sovelluksista, MyID-liitos, valtuutetun huoltoagentin komennot ja näkyvä toimintaloki."
+    }
+  ]
+}
