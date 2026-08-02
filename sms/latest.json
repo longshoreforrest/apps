@@ -1,0 +1,25 @@
+{
+  "slug": "sms",
+  "name": "MySMS",
+  "tagline": "Kaikki tekstiviestit yhdessä haettavassa hakemistossa",
+  "appId": "com.longshore.mysms",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mysms-1.0.0.apk",
+  "sha256": "ca0803e0191e28b946382219acbefbc48f2cca8ea33c473378a143fb249a611f",
+  "size": 2872269,
+  "publishedAt": "2026-08-02T10:12:32.066Z",
+  "notes": "Ensimmäinen versio: kaikki tekstiviestit haettavassa hakemistossa, haku ymmärtää suomen taivutuksen ja yhdyssanat, vahvistuskoodin voi kopioida yhdellä napautuksella.",
+  "url": "https://longshoreforrest.github.io/apps/sms/mysms-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mysms-1.0.0.apk",
+      "sha256": "ca0803e0191e28b946382219acbefbc48f2cca8ea33c473378a143fb249a611f",
+      "size": 2872269,
+      "publishedAt": "2026-08-02T10:12:32.066Z",
+      "notes": "Ensimmäinen versio: kaikki tekstiviestit haettavassa hakemistossa, haku ymmärtää suomen taivutuksen ja yhdyssanat, vahvistuskoodin voi kopioida yhdellä napautuksella."
+    }
+  ]
+}
