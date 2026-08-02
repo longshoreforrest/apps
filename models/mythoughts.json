@@ -46,20 +46,6 @@
       "default": true
     },
     {
-      "key": "qwen-2.5-3b-q4",
-      "role": "llm",
-      "language": null,
-      "name": "Qwen 2.5 3B Instruct",
-      "description": "Otsikkoehdotukset ja kysymys-vastaus",
-      "fileName": "qwen2.5-3b-instruct-q4_k_m.gguf",
-      "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/resolve/main/qwen2.5-3b-instruct-q4_k_m.gguf",
-      "sizeBytes": 2104932768,
-      "sha256": "",
-      "speedFactor": null,
-      "quality": null,
-      "default": true
-    },
-    {
       "key": "qwen-fi",
       "role": "llm",
       "language": null,
