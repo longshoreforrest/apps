@@ -1,0 +1,25 @@
+{
+  "slug": "ideas",
+  "name": "MyImprovementIdeas",
+  "tagline": "Kerro mikä mättää — sovellus tietää itse missä olit",
+  "appId": "com.longshore.myimprovementideas",
+  "version": "0.1.0",
+  "versionCode": 100,
+  "apk": "myimprovementideas-0.1.0.apk",
+  "sha256": "bbfcdc0f72d33d41f2d7f1b2a0929a0ced436ad6679775636a70e3f41f55595b",
+  "size": 2816248,
+  "publishedAt": "2026-08-03T13:59:20.137Z",
+  "notes": "Kerro mikä mättää puhumalla — sovellus liittää mukaan itse missä olit ja mitä juuri teit.",
+  "url": "https://longshoreforrest.github.io/apps/ideas/myimprovementideas-0.1.0.apk",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "versionCode": 100,
+      "apk": "myimprovementideas-0.1.0.apk",
+      "sha256": "bbfcdc0f72d33d41f2d7f1b2a0929a0ced436ad6679775636a70e3f41f55595b",
+      "size": 2816248,
+      "publishedAt": "2026-08-03T13:59:20.137Z",
+      "notes": "Kerro mikä mättää puhumalla — sovellus liittää mukaan itse missä olit ja mitä juuri teit."
+    }
+  ]
+}
