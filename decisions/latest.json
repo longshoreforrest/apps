@@ -1,0 +1,25 @@
+{
+  "slug": "decisions",
+  "name": "MyDecisions",
+  "tagline": "Päätösketju yhdellä silmäyksellä — mikä odottaa ketä ja mikä avautuu milloin",
+  "appId": "com.longshore.mydecisions",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mydecisions-1.0.0.apk",
+  "sha256": "98bdec2866253a3efae7fdd07137802cea0607e66a0cba0a9d57d9ecd1343eb0",
+  "size": 3005710,
+  "publishedAt": "2026-08-04T09:28:15.093Z",
+  "notes": "Ensimmäinen versio: päätösketju neljänä näkymänä ja firman perustaminen esimerkkinä.",
+  "url": "https://longshoreforrest.github.io/apps/decisions/mydecisions-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mydecisions-1.0.0.apk",
+      "sha256": "98bdec2866253a3efae7fdd07137802cea0607e66a0cba0a9d57d9ecd1343eb0",
+      "size": 3005710,
+      "publishedAt": "2026-08-04T09:28:15.093Z",
+      "notes": "Ensimmäinen versio: päätösketju neljänä näkymänä ja firman perustaminen esimerkkinä."
+    }
+  ]
+}
