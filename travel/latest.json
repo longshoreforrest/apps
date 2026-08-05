@@ -1,0 +1,25 @@
+{
+  "slug": "travel",
+  "name": "MyTravel",
+  "tagline": "Perheen matkat — haaveet, suunnitelmat ja muistot samassa paikassa",
+  "appId": "com.longshore.mytravel",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "mytravel-1.0.0.apk",
+  "sha256": "297da15480e32fbffd82d604cc7e453b5130a72766aa9d5653095e7fa62aa1b3",
+  "size": 2945431,
+  "publishedAt": "2026-08-05T12:50:34.964Z",
+  "notes": "Ensimmäinen versio: perheen matkat haaveina, suunnitelmina ja muistoina. Toiveseinä jolle jokainen kirjoittaa omalla nimellään, kuvat matkan omaan kansioon, ja päätökset näkyvät MyDecisionsista. Mukana Viron-reissu, Thaimaa 2027 ja 20-vuotishääpäivä.",
+  "url": "https://longshoreforrest.github.io/apps/travel/mytravel-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "mytravel-1.0.0.apk",
+      "sha256": "297da15480e32fbffd82d604cc7e453b5130a72766aa9d5653095e7fa62aa1b3",
+      "size": 2945431,
+      "publishedAt": "2026-08-05T12:50:34.964Z",
+      "notes": "Ensimmäinen versio: perheen matkat haaveina, suunnitelmina ja muistoina. Toiveseinä jolle jokainen kirjoittaa omalla nimellään, kuvat matkan omaan kansioon, ja päätökset näkyvät MyDecisionsista. Mukana Viron-reissu, Thaimaa 2027 ja 20-vuotishääpäivä."
+    }
+  ]
+}
