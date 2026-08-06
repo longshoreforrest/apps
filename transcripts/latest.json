@@ -1,0 +1,25 @@
+{
+  "slug": "transcripts",
+  "name": "MyTranscripts",
+  "tagline": "Nauhoitettu keskustelu luettavaksi ja kuunneltavaksi — puhujittain, aikaleimoineen",
+  "appId": "com.longshore.mytranscripts",
+  "version": "0.1.0",
+  "versionCode": 100,
+  "apk": "mytranscripts-0.1.0.apk",
+  "sha256": "6d0f1a3df57d74fb7386b9c697e4033feec38e9e9be22df4ca286e3bcbdf27be",
+  "size": 2908587,
+  "publishedAt": "2026-08-06T07:22:15.503Z",
+  "notes": "Ensimmäinen versio: kirjasto, dokumenttinäkymä, suomen kolmiportainen haku ja MyID-tunnistetut keskustelun osapuolet.",
+  "url": "https://longshoreforrest.github.io/apps/transcripts/mytranscripts-0.1.0.apk",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "versionCode": 100,
+      "apk": "mytranscripts-0.1.0.apk",
+      "sha256": "6d0f1a3df57d74fb7386b9c697e4033feec38e9e9be22df4ca286e3bcbdf27be",
+      "size": 2908587,
+      "publishedAt": "2026-08-06T07:22:15.503Z",
+      "notes": "Ensimmäinen versio: kirjasto, dokumenttinäkymä, suomen kolmiportainen haku ja MyID-tunnistetut keskustelun osapuolet."
+    }
+  ]
+}
