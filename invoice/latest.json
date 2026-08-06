@@ -1,0 +1,25 @@
+{
+  "slug": "invoice",
+  "name": "MyInvoice",
+  "tagline": "Saapuneet laskut talteen ja hyväksytyiksi — MyID:n aikaleimalla",
+  "appId": "com.longshore.myinvoice",
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "apk": "myinvoice-1.0.0.apk",
+  "sha256": "8cdf4b0ae4580ec89d49c1a8bfdc4617cc6130a24f273876c25d8e3b44391030",
+  "size": 9973672,
+  "publishedAt": "2026-08-06T03:56:31.847Z",
+  "notes": "Ensimmäinen versio: lasku talteen skannaamalla tai tiedostosta, sivun kääntö, kentät luetaan puhelimessa, hyväksyntä tai hylkäys MyID:n aikaleimalla, ja vahvistetut laskut holviin PDF:nä ja hyväksyntätodisteena.",
+  "url": "https://longshoreforrest.github.io/apps/invoice/myinvoice-1.0.0.apk",
+  "releases": [
+    {
+      "version": "1.0.0",
+      "versionCode": 10000,
+      "apk": "myinvoice-1.0.0.apk",
+      "sha256": "8cdf4b0ae4580ec89d49c1a8bfdc4617cc6130a24f273876c25d8e3b44391030",
+      "size": 9973672,
+      "publishedAt": "2026-08-06T03:56:31.847Z",
+      "notes": "Ensimmäinen versio: lasku talteen skannaamalla tai tiedostosta, sivun kääntö, kentät luetaan puhelimessa, hyväksyntä tai hylkäys MyID:n aikaleimalla, ja vahvistetut laskut holviin PDF:nä ja hyväksyntätodisteena."
+    }
+  ]
+}
