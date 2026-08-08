@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "updated": "2026-08-08T09:23:09+03:00",
+  "updated": "2026-08-08T10:27:32+03:00",
   "index": {
     "v2": "https://longshoreforrest.github.io/apps/fdroid/repo/index-v2.json",
     "v1": "https://longshoreforrest.github.io/apps/fdroid/repo/index-v1.json",
@@ -8,20 +8,12 @@
   },
   "packages": [
     {
-      "id": "koti-nimi",
-      "label": "Koti",
-      "base": "http://Tapios-MacBook-Pro.local:8790",
-      "health": "http://Tapios-MacBook-Pro.local:8790/health",
-      "scope": "lan",
-      "note": "Bonjour-nimi — kestää IP-osoitteen vaihtumisen"
-    },
-    {
       "id": "koti-osoite",
       "label": "Koti",
       "base": "http://10.119.172.247:8790",
       "health": "http://10.119.172.247:8790/health",
       "scope": "lan",
-      "note": "Numero-osoite — varalla jos mDNS ei selviä puhelimessa"
+      "note": "Kotiverkon osoite — päivittyy jokaisessa julkaisussa"
     },
     {
       "id": "releases",
